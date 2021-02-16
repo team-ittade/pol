@@ -8,7 +8,8 @@ theme:
     - navigation.instant
 
 nav:
-  - POL: index.md
+  - Evaluación: index.md
+  - Tema 1: tema-1.md
 
 extra_css:
     - css/colors.css
