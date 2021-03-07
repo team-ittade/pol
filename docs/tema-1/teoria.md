@@ -113,7 +113,7 @@ Definiciones:
 
 #### Decisiones
 
-![img](images/tema-1/decisiones.png)
+![img](../images/tema-1/decisiones.png)
 
 Tenemos unos hechos económicos que pueden venir dados por estadísticas, antecedentes, etc. *Ej: descenso del nivel de consumo, aumento del nivel de paro, descenso del nivel de inflacción, reducción del PIB, etc.* Son objetivos.
 

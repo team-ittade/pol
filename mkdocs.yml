@@ -9,7 +9,9 @@ theme:
 
 nav:
   - Evaluación: index.md
-  - Tema 1: tema-1.md
+  - Tema 1:
+    - Teoría: tema-1/teoria.md
+    - Test: tema-1/test.md
 
 extra_css:
     - css/colors.css
