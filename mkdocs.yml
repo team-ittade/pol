@@ -11,7 +11,10 @@ nav:
   - Evaluación: index.md
   - Tema 1:
     - Teoría: tema-1/teoria.md
-    - Test: tema-1/test.md
+  - Tests:
+    - Tema 1: tests/tema-1.md
+    - Tema 2 (sólo Juan): tests/tema-2.md
+    - Temas 2 y 3: tests/temas-2-3.md
 
 repo_name: team-ittade/pol
 repo_url: https://github.com/team-ittade/pol
