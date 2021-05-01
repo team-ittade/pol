@@ -6,13 +6,13 @@ Arg = typer.Argument
 Opt = typer.Option
 
 app = typer.Typer(add_completion=False)
-regex = r"([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+\"“”-]+)\nSeleccione una:\na. ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+\"“”-]+)\nb. ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+\"“”-]+)\nc. ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+\"“”-]+)\nd. ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+\"“”-]+)\nRetroalimentación\nLa respuesta correcta es: ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+\"“”-]+)"
+regex = r"([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+()\"“”-]+)\nSeleccione una:\na. ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+()\"“”-]+)\nb. ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+()\"“”-]+)\nc. ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+()\"“”-]+)\nd. ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+()\"“”-]+)\nRetroalimentación\nLa respuesta correcta es: ([\w. :áéíóúÁÉÍÓÚ¿?,ñÑ%+()\"“”-]+)"
 
 
 @app.command()
 def main(
-    lection: int = Opt(..., help="Lection of the test"),
-    file: str = Arg("test.txt", exists=True, help="Path to the test's text"),
+    lection: int = Arg(..., help="Lection of the test"),
+    file: str = Opt("test.txt", exists=True, help="Path to the test's text"),
 ):
 
     output_path = Path(__file__).with_name("docs") / f"tests/tema-{lection}.md"
