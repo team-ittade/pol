@@ -1,7 +1,5 @@
 # Test temas 2 y 3
 
-## César
-
 **PE02. La consecución simultánea de una mayor libertad de mercado y la protección del sector agrario guarda entre si una relación de:**
 
 - [ ] Independencia absoluta.

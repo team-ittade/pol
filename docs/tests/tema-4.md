@@ -1,7 +1,5 @@
 # Test tema 1
 
-## Alloza
-
 **PE04. Los instrumentos monetarios presentan retrasos externos prolongados por:**
 
 - [ ] La necesidad de ser consultar a actores externos.

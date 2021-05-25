@@ -1,7 +1,5 @@
 # Test tema 1
 
-## Test 1 de Alloza
-
 **PE01.P32. La propuesta de que "el número de medios a disposición del responsable de política económica deberá ser siempre igual o mayor al número de fines perseguidos" corresponde a:**
 
 - [ ] J. Buchanan.
@@ -142,10 +140,6 @@
 - [ ] La presencia de desigualdades en la distribución del poder y los privilegios.
 - [ ] La ignorancia de los costes reales con los que opera la Administración Pública.
 
-## Preguntas de J&PJ
-
-### Parte 1
-
 **¿Qué tipo de Ciencia es la Economía?**
 
 - [ ] Formal.
@@ -243,8 +237,6 @@
 - [ ] Cumple las características de no rivalidad y no exclusión.
 - [ ] Si se financian voluntariamente, su oferta tenderá a ser inferior a la demanda óptima social.
 - [x] Todas las opciones anteriores.
-
-### Parte 2
 
 **¿Cuál de las siguientes características es atribuible al conocimiento científico?**
 

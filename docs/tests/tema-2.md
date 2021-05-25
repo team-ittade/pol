@@ -1,7 +1,5 @@
 # Tests tema 2
 
-## Juan
-
 **Cuál de los siguientes objetivos de política económica tendría un carácter secundario entre los objetivos estructurales:**
 
 - [ ] Equilibrio de la Balanza de Pagos y estabilidad de precios.

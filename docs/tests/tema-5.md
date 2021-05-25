@@ -1,7 +1,5 @@
 # Test tema 5
 
-## Alloza
-
 **PE05. La teoría partidista del ciclo económico político tiene en cuenta:**
 
 - [ ] Un comportamiento gubernamental oportunista.
