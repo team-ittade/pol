@@ -1,7 +1,6 @@
 # Política económica
 
 - Profesor 1: Jesús Mª Gómez García (jmgomez@eco.uva.es)
-- [Link webex](https://universidaddevalladolid.webex.com/meet/jmgomez){: .elink}
 - [Guía docente](https://campusvirtual.uva.es/pluginfile.php/1692889/mod_resource/content/16/Proyecto-Gu%C3%ADa%20Docente%20Pol%C3%ADtica%20Econ%C3%B3mica%202020-2021%20Adaptado%20a%20la%20nueva%20normalidad.pdf){: .elink}
 - [Campus virtual](https://campusvirtual.uva.es/course/view.php?id=31849){: .elink}
 
